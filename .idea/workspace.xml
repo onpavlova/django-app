@@ -4,30 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1ebe494-0afc-40e4-9dbe-72d7486918b7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/DjangoApp37.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store_app/fixtures/store_fixture.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store_app/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store_app/management/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store_app/management/commands/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store_app/management/commands/load_store_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store_app/templates/store_app/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store_app/templates/store_app/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store_app/templates/store_app/menu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store_app/templates/store_app/product_add.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store_app/templates/store_app/product_detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store_app/templates/store_app/product_edit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store_app/templates/store_app/product_list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store_app/urls.py" afterDir="false" />
-    </list>
+    <list default="true" id="e1ebe494-0afc-40e4-9dbe-72d7486918b7" name="Changes" comment="save 37 41" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -107,11 +84,24 @@
       <updated>1765631528082</updated>
       <workItem from="1765631545344" duration="3381000" />
       <workItem from="1765635876287" duration="20146000" />
-      <workItem from="1765701507339" duration="19220000" />
+      <workItem from="1765701507339" duration="19549000" />
     </task>
+    <task id="LOCAL-00001" summary="save 37 41">
+      <option name="closed" value="true" />
+      <created>1765741988325</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1765741988325</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="save 37 41" />
+    <option name="LAST_COMMIT_MESSAGE" value="save 37 41" />
   </component>
 </project>
